@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "slug": "encrypted-chat",
+    "doc": "/markdown/encrypted-chat.md",
+    "title": "Encrypted Chat App",
+    "description": "A secure, end-to-end encrypted chat app using React, Node.js, and WebSocket",
+    "tech": [
+      "React",
+      "Node.js",
+      "WebSocket",
+      "TailwindCSS"
+    ],
+    "link": "https://your-live-link.com",
+    "repo": "https://github.com/your-repo/chat-app",
+    "image": "placeholder",
+    "content": "\r\n# 🔐 Encrypted Chat App\r\n\r\nA real-time messaging system with end-to-end encryption, forged in React and Node.js.\r\n\r\n## 🛠 Tech Stack\r\n\r\n- React + Tailwind UI\r\n- Node.js + Express\r\n- WebSocket Protocol (Socket.io)\r\n- AES-256 symmetric encryption\r\n\r\n## 🚨 Features\r\n\r\n- Anonymous messaging with client-side encryption\r\n- No message history stored on the server\r\n- Auth-free, ephemeral chat rooms\r\n\r\n## 🔓 Security Focus\r\n\r\nMessages are encrypted in the browser and decrypted only on the receiving end. Even the server can't read them.\r\n\r\n## 🧪 Future Ideas\r\n\r\n- Peer-to-peer fallback\r\n- Burner link sharing\r\n"
+  },
+  {
+    "id": 2,
+    "slug": "hidden-codex",
+    "doc": "/markdown/hidden-codex.md",
+    "title": "Hidden Empire Codex API",
+    "description": "RESTful API built with Node.js and Express to serve protected grimoire data.",
+    "tech": [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+    "link": "https://your-backend-link.com",
+    "repo": "https://github.com/rkbraniff/codex-api",
+    "image": "placeholder",
+    "content": "\r\n# 📜 Hidden Codex\r\n\r\nThis portfolio is powered by a dynamic CMS and a custom Markdown engine.\r\n\r\n## 💡 Architecture\r\n\r\n- JSON + Markdown combo system\r\n- Dynamic route handling via React Router\r\n- TailwindCSS for expressive design\r\n\r\n## ✍️ Editor Support\r\n\r\nMarkdown content is managed in `.md` files and supports:\r\n\r\n- Headings, lists, images\r\n- Code blocks\r\n- Future support for frontmatter metadata\r\n\r\n## ⚔️ Goal\r\n\r\nMake content modular and scalable, with no need to hardcode UI data.\r\n"
+  },
+  {
+    "id": 3,
+    "slug": "mythos",
+    "doc": "/markdown/mythos.md",
+    "title": "MythOS: Terminal Portfolio",
+    "description": "A terminal-style portfolio with keyboard navigation and ASCII magic. React + Vite + Tailwind.",
+    "tech": [
+      "React",
+      "Vite",
+      "Tailwind"
+    ],
+    "link": "https://your-project-link.com",
+    "repo": "https://github.com/rkbraniff/mythos",
+    "image": "placeholder",
+    "content": "\r\n# 🧬 Mythos: The Lore Engine\r\n\r\nThis is the soul of the system — a codified archive of your projects and ideas.\r\n\r\n## 📖 Purpose\r\n\r\nCreate an immersive story-like presentation of projects with:\r\n\r\n- Chapters as components\r\n- Scrolls as `.md` files\r\n- Animations and icons as relics\r\n\r\n## 🔮 Vision\r\n\r\nLet the portfolio **speak in legend**, not just code.  \r\nA future where users explore, not just scroll.\r\n"
+  },
+  {
+    "id": 4,
+    "slug": "portfolio-gen",
+    "doc": "/markdown/portfolio-gen.md",
+    "title": "Portfolio Generator",
+    "description": "Drag-and-drop builder for personal sites, built with Vite and Postgres",
+    "tech": [
+      "Vite",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "link": "#",
+    "repo": "#",
+    "image": "placeholder",
+    "content": "\r\n# 🧱 Portfolio Genesis\r\n\r\nA full-stack system crafted to secure high-impact roles in tech.\r\n\r\n## ⚙️ Stack\r\n\r\n- Frontend: React + Vite + TailwindCSS\r\n- Backend: Node.js + Express\r\n- DB: PostgreSQL\r\n- Hosting: Vercel (Frontend), Render/Fly.io (Backend)\r\n\r\n## 🔁 Dev Experience\r\n\r\n- Live reload via Vite\r\n- Markdown routing\r\n- JSON-powered projects\r\n- Reusable component library\r\n\r\n## 🏆 Outcome\r\n\r\nThis is more than a portfolio. It's an evolving platform.\r\n\r\n> _Stone rots. Steel rusts. Only living myth endures._\r\n"
+  }
+]

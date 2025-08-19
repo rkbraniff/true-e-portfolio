@@ -42,7 +42,7 @@ export const projects: Project[] = [
     doc: "/markdown/encrypted-chat.md",
     title: "Encrypted Chat App",
     description: "A secure, end-to-end encrypted chat app using React, Node.js, and WebSocket",
-    tech: ["React", "Node.js", "WebSocket", "TailwindCSS"],
+    tech: ["React", "Vite", "Express", "Node.js", "WebSocket", "TailwindCSS"],
     link: "https://whisper-vault-nu.vercel.app/",
     repo: "https://github.com/rkbraniff/whisper-vault",
     image: "C:\\Users\\rfpau\\e-portfolio\\assets\\Screenshot 2025-08-19 160816.png",
